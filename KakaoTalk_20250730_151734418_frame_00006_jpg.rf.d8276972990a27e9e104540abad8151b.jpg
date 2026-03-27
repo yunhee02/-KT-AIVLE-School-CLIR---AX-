@@ -1,0 +1,40 @@
+{
+  "FILE NAME": "15_X001_C031_0924_0.jpg",
+  "COLLECTION METHOD": "제작자료",
+  "FORM": "이미지",
+  "DATE": "2020-09-24 14:11:29",
+  "GPS": "37.5179711997222/126.749401599722",
+  "ID CODE": "C031",
+  "RESOLUTION": "1920*1440",
+  "focus distance": "4.32mm",
+  "exposure time": "1/115sec",
+  "Aperture values": "2.52",
+  "Sensitivity iso": "50",
+  "exposure method": "normal program",
+  "MAKE": "samsung",
+  "Camera Model Name": "SM-G977N",
+  "Software": "G977NKSU4CTG1",
+  "File Size": "782759",
+  "DAY/NIGHT": "주간",
+  "PLACE": "실외",
+  "PROJECT SORTING": "생활폐기물",
+  "BoundingCount": "1",
+  "Bounding": [
+    {
+      "CLASS": "비닐류",
+      "DETAILS": "봉투",
+      "DAMAGE": "일부훼손",
+      "TRANSPARENCY": "불투명",
+      "Color": "98/99/102",
+      "Shape": "평면형",
+      "Texture": "부드러움",
+      "Object Size": "중",
+      "Direction": "정면",
+      "Drawing": "BOX",
+      "x1": "759",
+      "y1": "328",
+      "x2": "1370",
+      "y2": "1041"
+    }
+  ]
+}

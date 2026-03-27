@@ -1,0 +1,130 @@
+{
+    "Raw_Data_Info": {
+        "raw_data_ID": "C-220801_08_CR14_05",
+        "location_ID": "cr14",
+        "location_name": "동안사거리",
+        "cctv_number": "05",
+        "copyrighter": "(주)미디어그룹사람과숲",
+        "resolution": "1920, 1080",
+        "date": "2022-08-01",
+        "start_time": "08:00:00",
+        "end_time": "09:00:00",
+        "length": 3600,
+        "fps": 30,
+        "season": "su",
+        "weather": "s",
+        "day_type": "w",
+        "road_type": "cr",
+        "cross_type": "f4",
+        "cctv_type": 1,
+        "lens_type": "na",
+        "cctv_height": 600,
+        "cctv_angle": 45,
+        "cctv_gps": [
+            37.3959,
+            127.1098
+        ],
+        "file_extension": "mp4"
+    },
+    "Source_Data_Info": {
+        "source_data_ID": "C-220801_08_CR14_05_N0095",
+        "classification_ID": "n",
+        "extract_time": "08:54:22",
+        "file_extension": "jpg"
+    },
+    "Learning_Data_Info": {
+        "path": "/차량번호판인식/교차로/[cr14]동안사거리/05번",
+        "file_extension": "json",
+        "json_data_ID": "C-220801_08_CR14_05_N0095",
+        "annotations": [
+            {
+                "license_plate": [
+                    {
+                        "class_ID": "no_01",
+                        "text": "08x",
+                        "bbox": [
+                            39,
+                            455,
+                            79,
+                            22
+                        ],
+                        "index": 1
+                    },
+                    {
+                        "class_ID": "no_01",
+                        "text": "21x",
+                        "bbox": [
+                            382,
+                            725,
+                            102,
+                            28
+                        ],
+                        "index": 2
+                    }
+                ],
+                "license_plate_number": [
+                    {
+                        "text": "0",
+                        "bbox": [
+                            48,
+                            462,
+                            7,
+                            10
+                        ],
+                        "index": 1
+                    },
+                    {
+                        "text": "8",
+                        "bbox": [
+                            57,
+                            462,
+                            7,
+                            9
+                        ],
+                        "index": 1
+                    },
+                    {
+                        "text": "x",
+                        "bbox": [
+                            65,
+                            462,
+                            7,
+                            8
+                        ],
+                        "index": 1
+                    },
+                    {
+                        "text": "2",
+                        "bbox": [
+                            394,
+                            732,
+                            8,
+                            14
+                        ],
+                        "index": 2
+                    },
+                    {
+                        "text": "1",
+                        "bbox": [
+                            405,
+                            733,
+                            6,
+                            12
+                        ],
+                        "index": 2
+                    },
+                    {
+                        "text": "x",
+                        "bbox": [
+                            413,
+                            733,
+                            9,
+                            11
+                        ],
+                        "index": 2
+                    }
+                ]
+            }
+        ]
+    }
+}

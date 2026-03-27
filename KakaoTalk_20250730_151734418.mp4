@@ -1,0 +1,40 @@
+{
+  "FILE NAME": "22_X001_C026_1109_0.jpg",
+  "COLLECTION METHOD": "제작자료",
+  "FORM": "이미지",
+  "DATE": "2020-12-16 19:28:15",
+  "GPS": "37.519409/126.74509729972222",
+  "ID CODE": "C026",
+  "RESOLUTION": "1920*1080",
+  "focus distance": "4.3mm",
+  "exposure time": "1/40sec",
+  "Aperture values": "2.52",
+  "Sensitivity iso": "320",
+  "exposure method": "normal program",
+  "MAKE": "samsung",
+  "Camera Model Name": "SM-N971N",
+  "Software": "N971NKSU1DTI1",
+  "File Size": "414472",
+  "DAY/NIGHT": "주간",
+  "PLACE": "실외",
+  "PROJECT SORTING": "생활폐기물",
+  "BoundingCount": "1",
+  "Bounding": [
+    {
+      "CLASS": "캔류",
+      "DETAILS": "음료수캔",
+      "DAMAGE": "일부훼손",
+      "TRANSPARENCY": "불투명",
+      "Color": "178/147/164",
+      "Shape": "원통형",
+      "Texture": "딱딱함",
+      "Object Size": "중",
+      "Direction": "원거리",
+      "Drawing": "BOX",
+      "x1": "749",
+      "y1": "416",
+      "x2": "1164",
+      "y2": "719"
+    }
+  ]
+}

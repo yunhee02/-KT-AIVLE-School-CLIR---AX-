@@ -1,0 +1,40 @@
+{
+  "FILE NAME": "23_X001_C012_1027_1.jpg",
+  "COLLECTION METHOD": "제작자료",
+  "FORM": "이미지",
+  "DATE": "2020-10-23 08:02:45",
+  "GPS": "37.535/126.704166666667",
+  "ID CODE": "C012",
+  "RESOLUTION": "1920*1440",
+  "focus distance": "4.30mm",
+  "exposure time": "1/40sec",
+  "Aperture values": "2.52",
+  "Sensitivity iso": "200",
+  "exposure method": "normal program",
+  "MAKE": "samsung",
+  "Camera Model Name": "SM-N976N",
+  "Software": "N976NKSU1CTG3",
+  "File Size": "423476",
+  "DAY/NIGHT": "주간",
+  "PLACE": "실외",
+  "PROJECT SORTING": "생활폐기물",
+  "BoundingCount": "1",
+  "Bounding": [
+    {
+      "CLASS": "페트병류",
+      "DETAILS": "페트병",
+      "DAMAGE": "원형",
+      "TRANSPARENCY": "불투명",
+      "Color": "188/149/121",
+      "Shape": "원통형",
+      "Texture": "혼합",
+      "Object Size": "대",
+      "Direction": "정면",
+      "Drawing": "BOX",
+      "x1": "304",
+      "y1": "425",
+      "x2": "1119",
+      "y2": "753"
+    }
+  ]
+}

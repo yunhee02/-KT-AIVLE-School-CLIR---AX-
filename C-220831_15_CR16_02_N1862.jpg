@@ -1,0 +1,89 @@
+{
+    "Raw_Data_Info": {
+        "raw_data_ID": "C-220802_08_CR14_05",
+        "location_ID": "cr14",
+        "location_name": "동안사거리",
+        "cctv_number": "05",
+        "copyrighter": "(주)미디어그룹사람과숲",
+        "resolution": "1920, 1080",
+        "date": "2022-08-02",
+        "start_time": "08:00:00",
+        "end_time": "09:00:00",
+        "length": 3600,
+        "fps": 30,
+        "season": "su",
+        "weather": "s",
+        "day_type": "h",
+        "road_type": "cr",
+        "cross_type": "f4",
+        "cctv_type": 1,
+        "lens_type": "na",
+        "cctv_height": 600,
+        "cctv_angle": 45,
+        "cctv_gps": [
+            37.3959,
+            127.1098
+        ],
+        "file_extension": "mp4"
+    },
+    "Source_Data_Info": {
+        "source_data_ID": "C-220802_08_CR14_05_N0253",
+        "classification_ID": "n",
+        "extract_time": "08:12:22",
+        "file_extension": "jpg"
+    },
+    "Learning_Data_Info": {
+        "path": "/차량번호판인식/교차로/[cr14]동안사거리/05번",
+        "file_extension": "json",
+        "json_data_ID": "C-220802_08_CR14_05_N0253",
+        "annotations": [
+            {
+                "license_plate": [
+                    {
+                        "class_ID": "no_01",
+                        "text": "68두",
+                        "bbox": [
+                            312,
+                            560,
+                            87,
+                            23
+                        ],
+                        "index": 1
+                    }
+                ],
+                "license_plate_number": [
+                    {
+                        "text": "6",
+                        "bbox": [
+                            322,
+                            567,
+                            8,
+                            12
+                        ],
+                        "index": 1
+                    },
+                    {
+                        "text": "8",
+                        "bbox": [
+                            331,
+                            566,
+                            8,
+                            12
+                        ],
+                        "index": 1
+                    },
+                    {
+                        "text": "두",
+                        "bbox": [
+                            340,
+                            566,
+                            7,
+                            12
+                        ],
+                        "index": 1
+                    }
+                ]
+            }
+        ]
+    }
+}
